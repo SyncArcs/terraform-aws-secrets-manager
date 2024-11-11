@@ -28,4 +28,3 @@ module "secrets_manager" {
     }
   ]
 }
- 
